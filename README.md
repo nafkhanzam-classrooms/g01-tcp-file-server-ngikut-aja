@@ -10,7 +10,7 @@
 
 ## Link Youtube (Unlisted)
 ```
-https://github.com/nafkhanzam-classrooms/g01-tcp-file-server-ngikut-aja.git
+https://youtu.be/zUYjz0Mijiw
 ```
 
 ## Penjelasan Program
